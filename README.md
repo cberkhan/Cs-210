@@ -1,2 +1,2 @@
 # Cs-210
-This is for my CS-210 class 
+This is my project two submission for the portfolio assignment in module eight. The purpose of this project was to display a screen to the user to aid them in calculating the increase in their investments over time based on a deposit and without a deposit. I think I created the menu and the chart displaying to the user accurately and it is correctly organized. I think I should have focused more on the OOP principles and I certainly think I am going to try this project again on my own time to see where I could change any aspects of the code. I made this project maintable, readable, and adaptable by including comments to explain how the code works to make it easier for anyone else that views this project. 
